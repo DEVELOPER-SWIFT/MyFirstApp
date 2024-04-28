@@ -52,6 +52,7 @@
 		8F835FD22BDF150B00A5375A /* MyFirstApp */ = {
 			isa = PBXGroup;
 			children = (
+				8F835FE22BDF174A00A5375A /* cursoBasicoSwift */,
 				8F835FD32BDF150B00A5375A /* MyFirstAppApp.swift */,
 				8F835FD52BDF150B00A5375A /* ContentView.swift */,
 				8F835FD72BDF150D00A5375A /* Assets.xcassets */,
@@ -67,6 +68,13 @@
 				8F835FDB2BDF150D00A5375A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8F835FE22BDF174A00A5375A /* cursoBasicoSwift */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = cursoBasicoSwift;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
